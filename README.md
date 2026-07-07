@@ -4,35 +4,35 @@
 
 ### 💻 IT Support • System Administration • Hybrid Cloud
 
-Computer Science student building hands-on projects with Windows Server, Microsoft 365, Active Directory, Microsoft Entra ID, and Security Operations.
+Computer Science student building an **Enterprise Hybrid Infrastructure Homelab** to develop practical skills in Windows Server, Microsoft 365, Active Directory, Microsoft Entra ID, and Security Operations.
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&lines=Windows+Server;Active+Directory;Microsoft+365;Microsoft+Entra+ID;PowerShell;Security+Operations"/>
-
-
+<p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=0078D4&center=true&vCenter=true&width=700&lines=Windows+Server;Active+Directory;Microsoft+365;Microsoft+Entra+ID;PowerShell;Security+Operations"/>
+</p>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-- 🎓 BS Computer Science Student
-- 🖥️ Building an Enterprise Hybrid Infrastructure Homelab
-- ☁️ Learning Microsoft 365 & Microsoft Entra ID
-- 🏢 Windows Server & Active Directory
-- 🛡️ Security Operations
-- ⚡ PowerShell Automation
+I'm documenting my journey through an **Enterprise Hybrid Infrastructure Homelab**, where I build and manage a Windows-based enterprise environment from the ground up.
+
+The lab covers on-premises infrastructure, Microsoft cloud services, and security monitoring to strengthen my skills in **IT Support**, **System Administration**, and **Microsoft 365 Administration**.
+
+📂 **Featured Project:**  
+👉 **IT-Operations-Homelab**
 
 ---
 
-## 🚀 Tech Stack
+# 🚀 Tech Stack
 
 ### 🖥️ Infrastructure
 
 <p>
 
 <img src="https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=windows&logoColor=white"/>
-<img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white"/>
+<img src="https://img.shields.io/badge/VMware_Workstation-607078?style=for-the-badge&logo=vmware&logoColor=white"/>
 <img src="https://img.shields.io/badge/Active_Directory-005A9C?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/DNS-0078D4?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/DHCP-0078D4?style=for-the-badge"/>
@@ -50,7 +50,7 @@ Computer Science student building hands-on projects with Windows Server, Microso
 <img src="https://img.shields.io/badge/Microsoft_Entra_ID-0078D4?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Exchange_Online-0078D4?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>
-<img src="https://img.shields.io/badge/Teams-6264A7?style=for-the-badge&logo=microsoftteams&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoftteams&logoColor=white"/>
 <img src="https://img.shields.io/badge/SharePoint-038387?style=for-the-badge&logo=microsoftsharepoint&logoColor=white"/>
 <img src="https://img.shields.io/badge/OneDrive-0078D4?style=for-the-badge&logo=microsoftonedrive&logoColor=white"/>
 
@@ -83,17 +83,16 @@ Computer Science student building hands-on projects with Windows Server, Microso
 
 ---
 
-## 📜 Certifications
+# 📜 Certifications
 
-- Google IT Support Professional Certificate
-- ISC² Certified in Cybersecurity *(In Progress)*
-- Microsoft Learn
-- TryHackMe
+- ✅ Google IT Support Professional Certificate
+- 📖 ISC² Certified in Cybersecurity *(In Progress)*
+- 📖 Microsoft Learn
+- 📖 TryHackMe
 
 ---
 
-
-## 🌐 Connect
+# 🌐 Connect
 
 <p>
 
@@ -106,3 +105,11 @@ Computer Science student building hands-on projects with Windows Server, Microso
 </a>
 
 </p>
+
+---
+
+<div align="center">
+
+### 💡 *Learning by building. Documenting every step.*
+
+</div>
