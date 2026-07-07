@@ -8,10 +8,7 @@ Computer Science student building hands-on projects with Windows Server, Microso
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&lines=Windows+Server;Active+Directory;Microsoft+365;Microsoft+Entra+ID;PowerShell;Security+Operations"/>
 
-<p>
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=0078D4"/>
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&logo=github"/>
-</p>
+
 
 </div>
 
