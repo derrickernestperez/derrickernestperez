@@ -1,124 +1,144 @@
 <div align="center">
 
-# Hi, I'm Derrick Ernest Perez 👋
+<img src="YOUR_BANNER_IMAGE_URL" width="100%" alt="GitHub Banner"/>
 
-### Windows Infrastructure • Active Directory • Cybersecurity
+# Hi 👋, I'm Derrick Ernest Perez
 
-Building an enterprise Windows Infrastructure & Security Homelab from scratch to develop hands-on experience in IT Operations, Infrastructure Engineering, Security Monitoring, and Incident Response.
+### 💻 Aspiring IT Support Engineer • System Administrator • Hybrid Cloud • Security Operations
 
-<br>
+Building an **Enterprise Hybrid Infrastructure Homelab** focused on Windows Server, Microsoft 365, Active Directory, Microsoft Entra ID, and Security Operations.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR-LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUREMAIL)
+<p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=1000&color=2F81F7&center=true&vCenter=true&width=850&lines=IT+Support+Engineer;Windows+Server+Administrator;Microsoft+365+Administrator;Hybrid+Cloud+Infrastructure;PowerShell+Automation;SOC+Analyst+in+Training" />
+</p>
+
+<p>
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/YOUR_USERNAME?tab=followers">
+<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&logo=github"/>
+</a>
+</p>
 
 </div>
 
 ---
 
-# 🚀 Current Project
+# 👨‍💻 About Me
 
-### Enterprise Windows Infrastructure & Security Homelab
+🎓 Computer Science Student
 
-Currently documenting and building an enterprise environment from scratch using VMware Workstation.
+🖥️ Building an Enterprise Hybrid Infrastructure Homelab
 
-### Progress
+☁️ Learning Microsoft 365 & Microsoft Entra ID
 
-- 🟢 VMware Networking
-- 🟢 Windows Server 2025
-- 🟡 Active Directory
-- 🔵 DNS
-- 🔵 DHCP
-- ⚪ Group Policy
-- ⚪ Windows LAPS
-- ⚪ Sysmon
-- ⚪ Wazuh SIEM
-- ⚪ Threat Hunting
-- ⚪ Purple Team Validation
+🏢 Windows Server & Active Directory Administration
+
+🛡️ Security Monitoring & Incident Response
+
+⚡ PowerShell Automation
+
+📚 Always learning new enterprise technologies
 
 ---
 
-# 💻 Technology Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=windows,powershell,git,github,docker,vscode" />
-
-</p>
-
-### Infrastructure
+# 🚀 Currently Learning
 
 - Windows Server 2025
 - Active Directory Domain Services
-- DNS
-- DHCP
+- DNS & DHCP
 - Group Policy
 - Windows LAPS
-- File Services
-
-### Security
-
-- Sysmon
+- Microsoft Entra ID
+- Microsoft 365
+- Exchange Online
+- Outlook
+- Microsoft Teams
+- SharePoint
+- OneDrive
+- PowerShell
 - Wazuh SIEM
+- Sysmon
 - Wireshark
-- Windows Event Viewer
-- MITRE ATT&CK
-- Incident Response
-
-### Networking
-
-- TCP/IP
-- DNS
-- DHCP
-- Kerberos
-- SMB
-- VMware Workstation
+- Nmap
+- Docker
 
 ---
 
-# 📂 Featured Repository
+# 💻 Tech Stack
 
-## 🏗️ IT-Operations-Homelab
+### 🖥️ Infrastructure
 
-An enterprise Windows infrastructure built from scratch and documented step by step.
+<p>
+<img src="https://skillicons.dev/icons?i=windows,powershell,docker,git,github,vscode"/>
+</p>
 
-Each project includes:
-
-- Architecture Diagrams
-- Configuration Documentation
-- PowerShell Scripts
-- Evidence & Screenshots
-- Incident Reports
-- Troubleshooting
-- Lessons Learned
-- Interview Questions
+Windows Server • Active Directory • DNS • DHCP • Group Policy • Windows LAPS • VMware Workstation
 
 ---
 
-# 📚 Currently Learning
+### ☁️ Cloud
 
-- Windows Infrastructure
-- Active Directory
-- Enterprise Networking
-- PowerShell Automation
-- Security Monitoring
-- Detection Engineering
-- Threat Hunting
-- Incident Response
+Microsoft Entra ID • Microsoft 365 • Exchange Online • Outlook • Teams • SharePoint • OneDrive
 
 ---
 
-# 🏆 Certifications
+### 🛡️ Security
 
-- ✅ Google IT Support Professional Certificate
-- 📖 ISC² Certified in Cybersecurity (In Progress)
+Wazuh • Sysmon • Microsoft Defender • Event Viewer • Wireshark • Nmap • VirusTotal • MITRE ATT&CK • YARA
+
+---
+
+### 🌐 Networking
+
+TCP/IP • DNS • DHCP • Kerberos • LDAP • SMB • RDP
+
+---
+
+# 📜 Certifications
+
+✅ Google IT Support Professional Certificate
+
+📖 ISC² Certified in Cybersecurity *(Currently Studying)*
+
+📖 Microsoft Learn
+
+📖 TryHackMe
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+</p>
 
 ---
 
 <div align="center">
 
-### Thanks for visiting!
-
-Building one project at a time.
+### ⭐ "Learning by building real-world enterprise infrastructure."
 
 </div>
