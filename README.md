@@ -4,10 +4,16 @@
 
 ### 💻 IT Support • System Administration • Hybrid Cloud
 
-Computer Science student building an **Enterprise Hybrid Infrastructure Homelab** to develop practical skills in Windows Server, Microsoft 365, Active Directory, Microsoft Entra ID, and Security Operations.
+Computer Science student passionate about enterprise IT and building hands-on projects with Windows Server, Active Directory, Microsoft 365, Microsoft Entra ID, and Security Operations.
 
 <p>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=0078D4&center=true&vCenter=true&width=700&lines=Windows+Server;Active+Directory;Microsoft+365;Microsoft+Entra+ID;PowerShell;Security+Operations"/>
+</p>
+
+<p>
+<a href="https://github.com/derrickernestperez/IT-Operations-Homelab">
+<img src="https://img.shields.io/badge/🚀_Featured_Project-IT--Operations--Homelab-0078D4?style=for-the-badge"/>
+</a>
 </p>
 
 </div>
@@ -16,18 +22,20 @@ Computer Science student building an **Enterprise Hybrid Infrastructure Homelab*
 
 # 👨‍💻 About Me
 
-I'm documenting my journey through an **Enterprise Hybrid Infrastructure Homelab**, where I build and manage a Windows-based enterprise environment from the ground up.
+I'm currently building an **Enterprise Hybrid Infrastructure Homelab** that simulates a real-world IT environment—from Windows Server and Active Directory to Microsoft 365, Microsoft Entra ID, and Security Operations.
 
-The lab covers on-premises infrastructure, Microsoft cloud services, and security monitoring to strengthen my skills in **IT Support**, **System Administration**, and **Microsoft 365 Administration**.
+The goal of this project is to gain practical experience with enterprise infrastructure, cloud services, system administration, automation, and security while documenting everything I learn.
 
-📂 **Featured Project:**  
-👉 **IT-Operations-Homelab**
+### 📂 Featured Project
+
+🔗 **IT-Operations-Homelab**  
+https://github.com/derrickernestperez/IT-Operations-Homelab
 
 ---
 
 # 🚀 Tech Stack
 
-### 🖥️ Infrastructure
+## 🖥️ Infrastructure
 
 <p>
 
@@ -42,7 +50,7 @@ The lab covers on-premises infrastructure, Microsoft cloud services, and securit
 
 </p>
 
-### ☁️ Microsoft Cloud
+## ☁️ Microsoft Cloud
 
 <p>
 
@@ -56,7 +64,7 @@ The lab covers on-premises infrastructure, Microsoft cloud services, and securit
 
 </p>
 
-### 🛡️ Security
+## 🛡️ Security
 
 <p>
 
@@ -70,7 +78,7 @@ The lab covers on-premises infrastructure, Microsoft cloud services, and securit
 
 </p>
 
-### ⚙️ Tools
+## ⚙️ Tools
 
 <p>
 
@@ -92,7 +100,7 @@ The lab covers on-premises infrastructure, Microsoft cloud services, and securit
 
 ---
 
-# 🌐 Connect
+# 📫 Connect With Me
 
 <p>
 
@@ -110,6 +118,8 @@ The lab covers on-premises infrastructure, Microsoft cloud services, and securit
 
 <div align="center">
 
-### 💡 *Learning by building. Documenting every step.*
+### 🎯 Current Focus
+
+**Building enterprise IT skills through hands-on labs, documenting every project, and preparing for a career in IT Support, System Administration, and Microsoft 365 Administration.**
 
 </div>
