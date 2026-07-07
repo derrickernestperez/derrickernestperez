@@ -2,13 +2,11 @@
 
 # Hi 👋 I'm Derrick Ernest Perez
 
-### 💻 Aspiring IT Support Engineer | System Administrator | Hybrid Cloud
+### 💻 Aspiring IT Support Engineer • System Administrator • Hybrid Cloud
 
 Building an Enterprise Hybrid Infrastructure Homelab focused on Windows Server, Active Directory, Microsoft 365, Microsoft Entra ID, and Security Operations.
 
-<p>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Windows+Server;Active+Directory;Microsoft+365;Microsoft+Entra+ID;PowerShell;Security+Operations"/>
-</p>
 
 </div>
 
@@ -16,23 +14,49 @@ Building an Enterprise Hybrid Infrastructure Homelab focused on Windows Server, 
 
 ## 🚀 Tech Stack
 
-<p align="left">
+### 🖥️ Infrastructure
 
-<img src="https://skillicons.dev/icons?i=windows,powershell,docker,git,github,vscode" />
-
+<p>
+<img src="https://skillicons.dev/icons?i=windows,powershell,docker,git,github,vscode" height="42"/>
 </p>
 
-**Infrastructure**
+<p>
+<img src="https://cdn.simpleicons.org/vmware" height="30"/>
+<img src="https://cdn.simpleicons.org/windows11" height="30"/>
+<img src="https://cdn.simpleicons.org/microsoft" height="30"/>
+</p>
 
-Windows Server • Active Directory • DNS • DHCP • Group Policy • Windows LAPS
+**Windows Server • Active Directory • DNS • DHCP • Group Policy • Windows LAPS**
 
-**Cloud**
+---
 
-Microsoft Entra ID • Microsoft 365 • Exchange Online • Outlook • Teams • SharePoint • OneDrive
+### ☁️ Microsoft Cloud
 
-**Security**
+<p>
+<img src="https://cdn.simpleicons.org/microsoftazure" height="30"/>
+<img src="https://cdn.simpleicons.org/microsoftoffice" height="30"/>
+<img src="https://cdn.simpleicons.org/microsoftoutlook" height="30"/>
+<img src="https://cdn.simpleicons.org/microsoftteams" height="30"/>
+<img src="https://cdn.simpleicons.org/microsoftsharepoint" height="30"/>
+<img src="https://cdn.simpleicons.org/microsoftonedrive" height="30"/>
+</p>
 
-Wazuh • Sysmon • Wireshark • Nmap • Microsoft Defender • MITRE ATT&CK
+**Microsoft Entra ID • Microsoft 365 • Exchange Online • Outlook • Teams • SharePoint • OneDrive**
+
+---
+
+### 🛡️ Security
+
+<p>
+<img src="https://cdn.simpleicons.org/wazuh" height="30"/>
+<img src="https://cdn.simpleicons.org/wireshark" height="30"/>
+<img src="https://cdn.simpleicons.org/nmap" height="30"/>
+<img src="https://cdn.simpleicons.org/microsoftdefender" height="30"/>
+<img src="https://cdn.simpleicons.org/virustotal" height="30"/>
+<img src="https://cdn.simpleicons.org/yara" height="30"/>
+</p>
+
+**Wazuh • Sysmon • Wireshark • Nmap • Microsoft Defender • VirusTotal • YARA • MITRE ATT&CK**
 
 ---
 
@@ -59,12 +83,14 @@ Wazuh • Sysmon • Wireshark • Nmap • Microsoft Defender • MITRE ATT&CK
 
 ## 🌐 Connect
 
-<p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/derrickperez2002/ ">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<p>
+
+<a href="https://www.linkedin.com/in/derrickperez2002">
+<img src="https://skillicons.dev/icons?i=linkedin" height="42"/>
 </a>
 
 <a href="mailto:derrickernestp@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
+<img src="https://skillicons.dev/icons?i=gmail" height="42"/>
 </a>
+
 </p>
