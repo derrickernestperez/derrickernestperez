@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="YOUR_BANNER_IMAGE_URL" width="100%" alt="Banner"/>
-
 # Hi 👋 I'm Derrick Ernest Perez
 
 ### 💻 Aspiring IT Support Engineer | System Administrator | Hybrid Cloud
@@ -62,11 +60,11 @@ Wazuh • Sysmon • Wireshark • Nmap • Microsoft Defender • MITRE ATT&CK
 ## 🌐 Connect
 
 <p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/derrickperez2002/ ">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:derrickernestp@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 </p>
