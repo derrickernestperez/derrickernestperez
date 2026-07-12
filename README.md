@@ -101,9 +101,9 @@ A multi-module enterprise environment built using Microsoft technologies to simu
 | ✅ Active Directory Administration | Complete |
 | ✅ Windows 11 Domain Join | Complete |
 | ✅ Group Policy Hardening | Complete |
-| ⏳ Folder Redirection | In Progress |
-| ⬜ DNS Infrastructure | Planned |
-| ⬜ DHCP Infrastructure | Planned |
+| ✅ Folder Redirection | Complete |
+| ✅ DNS Infrastructure | Complete |
+| ✅ DHCP Infrastructure | Complete |
 | ⬜ File Services | Planned |
 | ⬜ Windows LAPS | Planned |
 | ⬜ PowerShell Automation | Planned |
