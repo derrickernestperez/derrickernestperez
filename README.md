@@ -2,7 +2,7 @@
 
 # Hi 👋 I'm Derrick Ernest Perez
 
-### 🏢 Enterprise Infrastructure • Identity & Access Management • Security Operations
+###  Enterprise Infrastructure • Identity & Access Management • Security Operations
 
 Computer Science student building a documented Enterprise Infrastructure & Security Operations Homelab focused on Windows Server administration, Active Directory, endpoint management, infrastructure services, automation, and security operations.
 
@@ -53,9 +53,9 @@ Every module is documented with implementation procedures, screenshots, troubles
 
 ---
 
-# 🚀 Featured Project
+#  Featured Project
 
-## 🏗️ Enterprise Infrastructure & Security Operations Homelab
+## Enterprise Infrastructure & Security Operations Homelab
 
 A multi-module enterprise environment built to simulate real-world IT operations, identity management, endpoint administration, infrastructure services, and security controls.
 
@@ -65,7 +65,7 @@ A multi-module enterprise environment built to simulate real-world IT operations
 
 ---
 
-# 🏗️ Current Infrastructure
+# Current Infrastructure
 
 ```text
 Internet
@@ -99,7 +99,7 @@ VMnet1 (Host-Only Network)
 
 ---
 
-# 📊 Homelab Statistics
+# Homelab Statistics
 
 | Category | Count |
 |-----------|-----------:|
@@ -116,7 +116,7 @@ VMnet1 (Host-Only Network)
 
 ---
 
-# 🏗️ Current Homelab Progress
+# Current Homelab Progress
 
 | Module | Status |
 |----------|:------:|
@@ -141,7 +141,7 @@ VMnet1 (Host-Only Network)
 
 ---
 
-# 🖥️ Implemented Technologies
+#  Implemented Technologies
 
 <p>
 
@@ -188,7 +188,7 @@ Each issue is documented within its corresponding module.
 
 ---
 
-# ⚙️ Automation & Tools
+#   Automation & Tools
 
 <p>
 
@@ -217,7 +217,7 @@ Each issue is documented within its corresponding module.
 
 ---
 
-# 📜 Certifications
+#  Certifications
 
 - ✅ Google IT Support Professional Certificate
 - 📖 ISC² Certified in Cybersecurity (CC) — In Progress
@@ -226,7 +226,7 @@ Each issue is documented within its corresponding module.
 
 ---
 
-# 🎯 Career Goals
+# Career Goals
 
 Currently preparing for entry-level opportunities including:
 
@@ -240,7 +240,7 @@ Currently preparing for entry-level opportunities including:
 
 ---
 
-# 📫 Connect With Me
+# Connect With Me
 
 <p>
 
@@ -258,10 +258,5 @@ Currently preparing for entry-level opportunities including:
 
 <div align="center">
 
-### 💡 Philosophy
-
-> *"The best way to learn enterprise IT is by building it."*
-
-**Building enterprise infrastructure one module at a time.**
 
 </div>
