@@ -132,13 +132,14 @@ VMnet1 (Host-Only Network)
 | ✅ File Services | Complete |
 | ✅ Windows LAPS | Complete |
 | ✅ Print Services | Complete |
-| 🟨 PowerShell Automation | In Progress |
+| ✅ User Lifecycle Automation | Complete |
+| ✅ Offboarding Automation | Complete |
+| 🟨 Active Directory Auditing | In Progress |
 | ⬜ Microsoft Entra ID | Planned |
 | ⬜ Microsoft 365 | Planned |
 | ⬜ Microsoft Defender | Planned |
 | ⬜ Microsoft Sentinel | Planned |
 | ⬜ Incident Response Labs | Planned |
-
 ---
 
 #  Implemented Technologies
