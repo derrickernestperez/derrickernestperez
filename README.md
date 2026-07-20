@@ -2,17 +2,17 @@
 
 # Hi 👋 I'm Derrick Ernest Perez
 
-###  Enterprise Infrastructure • Identity & Access Management • Security Operations
+### Enterprise Infrastructure • Identity & Access Management • IT Operations • Security Operations
 
-Computer Science student building a documented Enterprise Infrastructure & Security Operations Homelab focused on Windows Server administration, Active Directory, endpoint management, infrastructure services, automation, and security operations.
+Computer Science student building a documented IT Operations Homelab focused on Enterprise Infrastructure, Systems Administration, Identity Management, Cloud Administration, Automation, Security Operations, and Compliance.
 
 <p>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=0078D4&center=true&vCenter=true&width=900&lines=Windows+Server;Active+Directory;Group+Policy;Identity+and+Access+Management;DNS+%26+DHCP;File+Services;Print+Services;Windows+LAPS;PowerShell+Automation;Enterprise+Infrastructure"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=0078D4&center=true&vCenter=true&width=1000&lines=Windows+Server;Active+Directory;Identity+%26+Access+Management;DNS+%26+DHCP;File+%26+Print+Services;Group+Policy;Windows+LAPS;PowerShell+Automation;Microsoft+365;Microsoft+Entra+ID;Enterprise+Infrastructure;Security+Operations"/>
 </p>
 
 <p>
 <a href="https://github.com/derrickernestperez/IT-Operations-Homelab">
-<img src="https://img.shields.io/badge/🚀_Featured_Project-Enterprise_Infrastructure_Homelab-0078D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🚀_Featured_Project-IT_Operations_Homelab-0078D4?style=for-the-badge"/>
 </a>
 </p>
 
@@ -22,42 +22,29 @@ Computer Science student building a documented Enterprise Infrastructure & Secur
 
 # 👨‍💻 About Me
 
-I'm a Computer Science student focused on enterprise infrastructure, systems administration, identity management, and security operations.
+I'm a Computer Science student focused on Enterprise Infrastructure, Identity & Access Management (IAM), Systems Administration, Cloud Identity, and Security Operations.
 
-To gain practical experience beyond the classroom, I'm building an Enterprise Infrastructure & Security Operations Homelab that simulates a real-world Microsoft environment used by modern organizations.
+To gain practical experience beyond the classroom, I'm building a structured IT Operations Homelab that follows the lifecycle of a modern enterprise environment—from infrastructure deployment and identity management to cloud administration, monitoring, security operations, and compliance.
 
-The environment currently includes:
+Every module is documented with:
 
-- Windows Server 2025
-- Active Directory Domain Services
-- DNS & DHCP
-- Organizational Units (OU)
-- Security Groups & RBAC
-- Group Policy Management
-- Folder Redirection
-- File Services
-- Print Services
-- Windows LAPS
-- Windows 11 Enterprise
-
-Future phases will expand into:
-
+- Architecture Diagrams
+- Business Scenarios
+- Technical Explanations
+- Troubleshooting Notes
+- Screenshots
 - PowerShell Automation
-- Microsoft Entra ID
-- Microsoft 365
-- Microsoft Defender
-- Microsoft Sentinel
-- Security Monitoring & Incident Response
+- Lessons Learned
 
-Every module is documented with implementation procedures, screenshots, troubleshooting notes, business scenarios, and technical explanations.
+The goal is to develop hands-on experience equivalent to real-world IT Support, Systems Administration, Infrastructure Operations, Identity Administration, and Security Operations roles.
 
 ---
 
-#  Featured Project
+# 🚀 Featured Project
 
-## Enterprise Infrastructure & Security Operations Homelab
+## IT Operations Homelab
 
-A multi-module enterprise environment built to simulate real-world IT operations, identity management, endpoint administration, infrastructure services, and security controls.
+A structured enterprise environment built to simulate modern IT operations, identity management, infrastructure administration, endpoint management, cloud identity, and security operations.
 
 ### Repository
 
@@ -65,7 +52,7 @@ A multi-module enterprise environment built to simulate real-world IT operations
 
 ---
 
-# Current Infrastructure
+# 🏗️ Current Infrastructure
 
 ```text
 Internet
@@ -84,6 +71,7 @@ VMnet1 (Host-Only Network)
 │ File Services               │
 │ Print Services              │
 │ Windows LAPS                │
+│ Windows Admin Center        │
 └─────────────────────────────┘
                │
                ▼
@@ -99,7 +87,7 @@ VMnet1 (Host-Only Network)
 
 ---
 
-# Homelab Statistics
+# 📊 Homelab Statistics
 
 | Category | Count |
 |-----------|-----------:|
@@ -112,37 +100,97 @@ VMnet1 (Host-Only Network)
 | Group Policy Objects | 8+ |
 | Department File Shares | 4 |
 | Managed Printers | 2 |
-| Enterprise Modules Completed | 12 |
+| Roadmap Modules Completed | 18+ |
 
 ---
 
-# Current Homelab Progress
+# 🗺️ Homelab Roadmap Progress
+
+## 00 - Lab Foundation
 
 | Module | Status |
 |----------|:------:|
-| ✅ Windows Server Installation | Complete |
-| ✅ Initial Server Configuration | Complete |
-| ✅ Active Directory Domain Services | Complete |
-| ✅ Active Directory Administration | Complete |
-| ✅ Windows 11 Domain Join | Complete |
-| ✅ Group Policy Hardening | Complete |
-| ✅ Folder Redirection | Complete |
-| ✅ DNS Infrastructure | Complete |
-| ✅ DHCP Infrastructure | Complete |
-| ✅ File Services | Complete |
-| ✅ Windows LAPS | Complete |
-| ✅ Print Services | Complete |
-| ✅ User Lifecycle Automation | Complete |
-| ✅ Offboarding Automation | Complete |
-| 🟨 Active Directory Auditing | In Progress |
-| ⬜ Microsoft Entra ID | Planned |
-| ⬜ Microsoft 365 | Planned |
-| ⬜ Microsoft Defender | Planned |
-| ⬜ Microsoft Sentinel | Planned |
-| ⬜ Incident Response Labs | Planned |
+| Virtualization & Networking | ✅ |
+| Windows Server Installation | ✅ |
+| Windows 11 Deployment | ✅ |
+
 ---
 
-#  Implemented Technologies
+## 01 - Identity & Access Management
+
+| Module | Status |
+|----------|:------:|
+| Active Directory Domain Services | ✅ |
+| Active Directory Administration | ✅ |
+| Windows 11 Domain Join | ✅ |
+| Group Policy Hardening | ✅ |
+| Windows LAPS | ✅ |
+| User Lifecycle Automation | ✅ |
+| Offboarding Automation | ✅ |
+| Helpdesk Automation | ✅ |
+| Active Directory Auditing | 🟨 |
+| Group Policy Compliance Reporting | ⬜ |
+
+---
+
+## 02 - Core Infrastructure
+
+| Module | Status |
+|----------|:------:|
+| DNS Infrastructure | ✅ |
+| DHCP Infrastructure | ✅ |
+| File Services | ✅ |
+| Folder Redirection | ✅ |
+| Print Services | ✅ |
+| Backup & Disaster Recovery | ✅ |
+
+---
+
+## 03 - Enterprise Operations
+
+| Module | Status |
+|----------|:------:|
+| Windows Admin Center | 🟨 |
+| Sysmon Deployment | ⬜ |
+| SIEM Implementation | ⬜ |
+| EDR Deployment | ⬜ |
+| Security Monitoring | ⬜ |
+| Documentation & Knowledge Base | ⬜ |
+
+---
+
+## 04 - Cloud Identity & Microsoft 365
+
+| Module | Status |
+|----------|:------:|
+| Microsoft Entra ID | ⬜ |
+| Hybrid Identity | ⬜ |
+| Microsoft 365 Administration | ⬜ |
+| MFA & Conditional Access | ⬜ |
+| Identity Governance | ⬜ |
+
+---
+
+## 05 - Security Operations
+
+| Module | Status |
+|----------|:------:|
+| Threat Hunting | ⬜ |
+| Incident Response | ⬜ |
+
+---
+
+## 06 - GRC & Compliance
+
+| Module | Status |
+|----------|:------:|
+| NIST Cybersecurity Framework | ⬜ |
+| CIS Benchmarks | ⬜ |
+| Audit & Compliance | ⬜ |
+
+---
+
+# 🔧 Technologies Implemented
 
 <p>
 
@@ -162,6 +210,8 @@ VMnet1 (Host-Only Network)
 
 <img src="https://img.shields.io/badge/Windows_LAPS-0078D4?style=for-the-badge"/>
 
+<img src="https://img.shields.io/badge/Windows_Admin_Center-0078D4?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/Windows_11-0078D4?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/VMware_Workstation-607078?style=for-the-badge&logo=vmware&logoColor=white"/>
@@ -170,26 +220,29 @@ VMnet1 (Host-Only Network)
 
 ---
 
-# 🔧 Troubleshooting Experience
+# 🛠️ Troubleshooting Experience
 
-Throughout this homelab I encountered and resolved several real-world infrastructure issues including:
+Throughout this homelab I have encountered and resolved real-world infrastructure issues including:
 
-- VMware DHCP conflicts with Windows DHCP
-- DNS name resolution failures
-- Domain join troubleshooting
-- Group Policy processing issues
-- Folder Redirection deployment problems
-- File Share access troubleshooting
-- NTFS and Share Permission conflicts
-- Windows LAPS schema configuration
-- Printer deployment troubleshooting
-- Endpoint policy validation
+- VMware DHCP conflicts
+- DNS resolution failures
+- Active Directory replication issues
+- Domain Join troubleshooting
+- Group Policy processing failures
+- Folder Redirection deployment issues
+- File Share permission conflicts
+- NTFS vs Share Permission troubleshooting
+- Windows LAPS deployment issues
+- Printer deployment problems
+- DHCP scope configuration issues
+- Backup & Restore testing
+- Windows Admin Center deployment troubleshooting
 
-Each issue is documented within its corresponding module.
+Every issue is documented within its corresponding module.
 
 ---
 
-#   Automation & Tools
+# ⚙️ Automation & Tools
 
 <p>
 
@@ -207,41 +260,44 @@ Each issue is documented within its corresponding module.
 
 # 📚 Currently Learning
 
+- Enterprise Infrastructure Administration
 - PowerShell Automation
-- Windows Administration
 - Microsoft Entra ID
+- Hybrid Identity
 - Microsoft 365 Administration
-- Identity & Access Management
-- Microsoft Defender
-- Microsoft Sentinel
-- Security Operations
+- Security Monitoring
+- SIEM Operations
+- Threat Hunting
+- Incident Response
+- Governance, Risk & Compliance
 
 ---
 
-#  Certifications
+# 🎓 Certifications
 
 - ✅ Google IT Support Professional Certificate
 - 📖 ISC² Certified in Cybersecurity (CC) — In Progress
-- 📖 Microsoft Learn (Windows Server, Microsoft 365 & Entra ID)
+- 📖 Microsoft Learn (Windows Server, Entra ID & Microsoft 365)
 - 📖 TryHackMe (Windows, Active Directory & Blue Team Labs)
 
 ---
 
-# Career Goals
+# 🎯 Career Goals
 
-Currently preparing for entry-level opportunities including:
+Currently preparing for opportunities including:
 
-- SOC Analyst (Tier 1)
-- IT Support Engineer
+- IT Support Specialist
+- Help Desk Technician
 - Service Desk Analyst
 - Systems Administrator
 - Infrastructure Support Engineer
+- Identity & Access Management Administrator
 - Microsoft 365 Administrator
-- Identity & Access Administrator
+- SOC Analyst (Tier 1)
 
 ---
 
-# Connect With Me
+# 📫 Connect With Me
 
 <p>
 
@@ -259,5 +315,6 @@ Currently preparing for entry-level opportunities including:
 
 <div align="center">
 
+### Building Enterprise Infrastructure One Module at a Time 🚀
 
 </div>
