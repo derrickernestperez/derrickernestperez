@@ -1,193 +1,228 @@
 <div align="center">
 
-# 👋 Hi, I'm Derrick Ernest Perez
+# Derrick Ernest Perez
 
-### Enterprise Infrastructure | Systems Administration | Identity & Access Management | Microsoft Enterprise Technologies
+### Systems Administration • Infrastructure Operations • Identity and Access Management
 
-Computer Science student building a production-inspired Microsoft Enterprise Homelab focused on Infrastructure Administration, Identity & Access Management (IAM), IT Operations, Security Operations, Automation, and Enterprise Documentation.
+Computer Science student building a hands-on Microsoft infrastructure homelab focused on Windows Server, Active Directory, PowerShell automation, enterprise troubleshooting, and technical documentation.
 
-<p>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=0078D4&center=true&vCenter=true&width=1000&lines=Windows+Server;Active+Directory;Identity+%26+Access+Management;DNS+%26+DHCP;Group+Policy;File+%26+Print+Services;Windows+LAPS;PowerShell+Automation;Windows+Admin+Center;Microsoft+Entra+ID;Microsoft+365;Enterprise+Infrastructure;Security+Operations"/>
-
-</p>
-
-<p>
+<br>
 
 <a href="https://github.com/derrickernestperez/IT-Operations-Homelab">
-
-<img src="https://img.shields.io/badge/🚀_Featured_Project-Enterprise_IT_Operations_Homelab-0078D4?style=for-the-badge"/>
-
+  <img src="https://img.shields.io/badge/View%20the%20Homelab-0078D4?style=for-the-badge&logo=github&logoColor=white" alt="View IT Operations Homelab">
 </a>
 
-</p>
+<a href="https://www.linkedin.com/in/derrickperez2002/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=900&color=0078D4&center=true&vCenter=true&width=900&lines=Windows+Server+Administration;Active+Directory+and+Group+Policy;DNS%2C+DHCP%2C+File+and+Print+Services;PowerShell+Automation;Infrastructure+Troubleshooting;Security+Monitoring+and+Documentation" alt="Technical focus areas">
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+## About Me
 
-I'm building a production-inspired IT Operations Homelab that simulates the daily responsibilities of Systems Administrators, Infrastructure Engineers, Identity Administrators, and IT Operations professionals.
+I am a Computer Science student developing practical experience in systems administration and enterprise IT operations.
 
-The environment focuses on deploying, administering, securing, monitoring, troubleshooting, and documenting Microsoft enterprise technologies using Windows Server, Active Directory, PowerShell, Windows Admin Center, and modern Microsoft cloud technologies.
+My main project is a Microsoft-based homelab that recreates common responsibilities handled by Help Desk technicians, systems administrators, infrastructure engineers, and identity administrators.
 
-Rather than simply installing services, every module is designed around realistic enterprise scenarios—from infrastructure deployment and identity management to operational troubleshooting, automation, monitoring, disaster recovery, and security operations.
+I use the lab to practice more than installation. Each module includes configuration, validation, troubleshooting, automation, and documentation.
 
-Each project includes:
+My current focus includes:
 
-- 🏢 Business Scenario
-- 🏗️ Architecture Diagram
-- 📖 Technical Explanation
-- 🔍 Incident Investigation
-- 🛠️ Troubleshooting Workflow
-- ⚙️ PowerShell Automation
-- 📷 Step-by-Step Screenshots
-- ✅ Validation Procedures
-- 💼 Interview Questions
-- 📝 Lessons Learned
-
-The objective is to build practical experience aligned with real-world responsibilities in:
-
-- IT Support
-- Service Desk
-- Systems Administration
-- Infrastructure Operations
-- Identity & Access Management
-- Microsoft 365 Administration
-- Security Operations
+- Windows Server administration
+- Active Directory and Group Policy
+- Identity lifecycle management
+- DNS and DHCP
+- File and print services
+- PowerShell automation
+- Windows Admin Center
+- Security monitoring
+- Backup and recovery
+- Microsoft cloud identity
 
 ---
 
-# 🚀 Featured Project
+## Featured Project
 
-# Enterprise IT Operations Homelab
+### [IT Operations Homelab](https://github.com/derrickernestperez/IT-Operations-Homelab)
 
-A structured Microsoft enterprise environment designed to simulate modern infrastructure administration, identity management, enterprise operations, endpoint management, cloud identity, automation, monitoring, and security operations.
+A structured Windows enterprise environment built to practice infrastructure deployment, identity administration, endpoint management, troubleshooting, security monitoring, and operational documentation.
 
-## Repository
-
-🔗 https://github.com/derrickernestperez/IT-Operations-Homelab
-
----
-
-# 🏗️ Current Infrastructure
+The repository is organized into the following areas:
 
 ```text
-Internet
-     │
-VMware Workstation Pro
-     │
-VMnet1 (Host-Only Network)
-     │
-──────────────────────────────────────────
-
-SRV01
-Windows Server 2025
-
-• Active Directory Domain Services
-• DNS
-• DHCP
-• Group Policy
-• File Services
-• Print Services
-• Windows LAPS
-• Windows Admin Center
-• Backup & Recovery
-• PowerShell Administration
-
-               │
-
-CLIENT01
-Windows 11 Enterprise
-
-• Domain Joined
-• Folder Redirection
-• Drive Mapping
-• Group Policy Managed
-• Enterprise Authentication
+00-Lab-Setup
+01-Identity-and-Access-Management
+02-Core-Infrastructure
+03-Enterprise-Operations
+04-Cloud-Identity-and-M365
+05-Security-Operations
+06-GRC-and-Compliance
 ```
 
----
+Each completed module documents:
 
-# 📊 Homelab Statistics
-
-| Category | Count |
-|-----------|-------:|
-| Windows Servers | 1 |
-| Domain Controllers | 1 |
-| Windows Clients | 1 |
-| Active Directory Users | 20+ |
-| Organizational Units | 10+ |
-| Security Groups | 10+ |
-| Group Policy Objects | 10+ |
-| Department File Shares | 4 |
-| Managed Printers | 2 |
-| Enterprise Modules Completed | 21+ |
-| Documented Troubleshooting Scenarios | 40+ |
-| PowerShell Scripts | Growing |
+- The business problem
+- Why the technology is used
+- The lab environment
+- Implementation steps
+- Screenshots and evidence
+- Validation results
+- Troubleshooting notes
+- Security considerations
+- Useful commands
+- Interview preparation
+- Personal lessons learned
 
 ---
 
-# 💼 Enterprise Scenarios Simulated
+## Homelab Architecture
 
-This homelab recreates common operational tasks performed by Systems Administrators and Infrastructure Engineers.
+```text
+                         Internet
+                            │
+                  VMware Workstation Pro
+                            │
+                     Isolated Lab Network
+                            │
+          ┌─────────────────┴─────────────────┐
+          │                                   │
+        SRV01                              CLIENT01
+ Windows Server 2025                  Windows 11 Enterprise
+          │                                   │
+          ├── Active Directory                ├── Domain joined
+          ├── DNS                             ├── Group Policy managed
+          ├── DHCP                            ├── Mapped drives
+          ├── Group Policy                    ├── Folder Redirection
+          ├── File Services                   ├── Deployed printer
+          ├── Print Services                  └── Enterprise authentication
+          ├── Windows LAPS
+          ├── Windows Admin Center
+          ├── PowerShell Automation
+          └── Backup and Recovery
+```
 
-### Identity & Access Management
+This is currently a single-server learning environment. Future phases will separate infrastructure roles across additional servers and introduce cloud identity, centralized monitoring, and security operations tooling.
 
-- User provisioning
-- User offboarding
-- Password resets
-- Account unlocks
-- Organizational Unit administration
-- Security Group management
-- Windows LAPS administration
+---
 
-### Infrastructure Administration
+## Current Environment
 
-- DNS administration
-- DHCP deployment
-- File Server administration
-- Print Server administration
-- Group Policy deployment
+| Component | Current Configuration |
+|---|---|
+| Hypervisor | VMware Workstation Pro |
+| Server | Windows Server 2025 |
+| Client | Windows 11 Enterprise |
+| Domain | `homelab.local` |
+| Domain Controller | SRV01 |
+| Managed Client | CLIENT01 |
+| Active Directory Users | 20+ test accounts |
+| Organizational Units | Department and infrastructure OUs |
+| Security Groups | Department and access groups |
+| Automation | PowerShell |
+| Management | Server Manager and Windows Admin Center |
+| Documentation | Markdown, screenshots, scripts, and reports |
+
+The environment continues to grow as new modules are completed.
+
+---
+
+## Completed Work
+
+### Identity and Access Management
+
+- Active Directory Domain Services deployment
+- Organizational Unit design
+- User and security-group administration
+- Windows 11 domain join
+- Group Policy hardening
+- Windows LAPS
+- Automated employee onboarding
+- Automated employee offboarding
+- Active Directory auditing
+- Help Desk PowerShell toolkit
+- Group Policy compliance reporting
+
+### Core Infrastructure
+
+- DNS forward and reverse lookup zones
+- DHCP installation and scope configuration
+- DHCP authorization troubleshooting
+- Department file shares
+- Share and NTFS permissions
+- Group Policy drive mapping
 - Folder Redirection
-- Windows Admin Center
-- Backup & Disaster Recovery
+- Print server deployment
+- File-share permission auditing
+- Backup and file restoration
 
-### Enterprise Troubleshooting
+### Enterprise Operations
 
-- DNS resolution failures
-- DHCP authorization failures
-- Active Directory issues
-- Domain Join troubleshooting
-- Group Policy failures
-- NTFS permission conflicts
-- Share permission troubleshooting
-- Folder Redirection issues
-- Print service failures
-- Windows service failures
-- Event Viewer investigations
+- Honey-account security monitoring
+- PowerShell alert logging
+- Windows Admin Center administration
+- Process investigation
+- Event Viewer analysis
+- CPU and memory review
+- Service troubleshooting
 - Performance monitoring
-- Windows Admin Center troubleshooting
 
 ---
 
-# 🗺️ Enterprise Learning Roadmap
+## Selected Troubleshooting Scenarios
 
-## 00 • Enterprise Lab Foundation
+The lab includes problems I encountered and investigated rather than only successful configurations.
+
+Examples include:
+
+| Scenario | Investigation |
+|---|---|
+| IP connectivity worked but hostnames failed | Client DNS configuration, `nslookup`, DNS records, and resolver cache |
+| DHCP stopped servicing clients | DHCP Event ID 1046 and Active Directory authorization |
+| Group Policy did not apply | OU placement, GPO link, filtering, `gpupdate`, and `gpresult` |
+| User received Access Denied | Security-group membership, share permissions, and NTFS permissions |
+| Mapped drive did not appear | GPO scope and item-level targeting |
+| Folder Redirection remained local | User policy scope, UNC access, permissions, and sign-in processing |
+| Printer did not deploy | GPO processing, permissions, drivers, and Print Spooler status |
+| Server appeared to use high CPU | Processes, System Idle Process, and sustained resource usage |
+| Unexpected server shutdown events | Kernel-Power Event ID 41 and surrounding events |
+| Honey-account activity detected | Security log review and PowerShell alert generation |
+
+My troubleshooting process follows this model:
+
+```text
+See
+  ↓
+Think
+  ↓
+Examine
+  ↓
+Proceed
+```
+
+The goal is to collect evidence before making changes.
+
+---
+
+## Repository Roadmap
+
+### 00 — Lab Setup
 
 | Module | Status |
-|----------|:------:|
-| Virtualization & Networking | ✅ |
+|---|:---:|
+| Enterprise Virtualization | ✅ |
 | Windows Server Installation | ✅ |
 | Windows 11 Deployment | ✅ |
 
----
-
-## 01 • Identity & Access Management
+### 01 — Identity and Access Management
 
 | Module | Status |
-|----------|:------:|
+|---|:---:|
 | Active Directory Domain Services | ✅ |
 | Active Directory Administration | ✅ |
 | Windows 11 Domain Join | ✅ |
@@ -195,292 +230,257 @@ This homelab recreates common operational tasks performed by Systems Administrat
 | Windows LAPS | ✅ |
 | User Lifecycle Automation | ✅ |
 | Offboarding Automation | ✅ |
-| Helpdesk Automation | ✅ |
-| Active Directory Auditing | 🟨 |
-| Group Policy Compliance Reporting | 🟨 |
+| Active Directory Auditing | ✅ |
+| Help Desk Automation | ✅ |
+| Group Policy Compliance Reporting | ✅ |
 
----
-
-## 02 • Enterprise Infrastructure
+### 02 — Core Infrastructure
 
 | Module | Status |
-|----------|:------:|
+|---|:---:|
 | DNS Infrastructure | ✅ |
 | DHCP Infrastructure | ✅ |
 | File Services | ✅ |
 | Folder Redirection | ✅ |
-| Print Services | ✅ |
-| Backup & Disaster Recovery | ✅ |
+| Print Server Management | ✅ |
+| File Server Auditing | ✅ |
+| Backup and Disaster Recovery | ✅ |
+
+### 03 — Enterprise Operations
+
+| Module | Status |
+|---|:---:|
+| Security Monitoring with Honey Accounts | ✅ |
 | Windows Admin Center | 🟨 |
+| WSUS Patch Management | ⬜ |
+| Server Monitoring | ⬜ |
+| Remote Administration | ⬜ |
+| Documentation and Knowledge Base | ⬜ |
 
----
-
-## 03 • PowerShell & Automation
-
-| Module | Status |
-|----------|:------:|
-| PowerShell Administration | ⬜ |
-| User Automation | ⬜ |
-| Reporting Automation | ⬜ |
-| Monitoring Scripts | ⬜ |
-
----
-
-## 04 • Security Operations
+### 04 — Cloud Identity and Microsoft 365
 
 | Module | Status |
-|----------|:------:|
-| Sysmon Deployment | ⬜ |
-| SIEM Implementation | ⬜ |
-| Endpoint Monitoring | ⬜ |
-| Incident Response | ⬜ |
-| Threat Hunting | ⬜ |
-
----
-
-## 05 • Cloud Identity
-
-| Module | Status |
-|----------|:------:|
+|---|:---:|
 | Microsoft Entra ID | ⬜ |
 | Hybrid Identity | ⬜ |
 | Microsoft 365 Administration | ⬜ |
-| Conditional Access | ⬜ |
+| MFA and Conditional Access | ⬜ |
 | Identity Governance | ⬜ |
 
----
-
-## 06 • Governance & Compliance
+### 05 — Security Operations
 
 | Module | Status |
-|----------|:------:|
+|---|:---:|
+| Sysmon Deployment | ⬜ |
+| Microsoft Defender | ⬜ |
+| Microsoft Sentinel | ⬜ |
+| Threat Hunting | ⬜ |
+| Incident Response | ⬜ |
+
+### 06 — Governance, Risk, and Compliance
+
+| Module | Status |
+|---|:---:|
 | NIST Cybersecurity Framework | ⬜ |
 | CIS Benchmarks | ⬜ |
-| Audit & Compliance | ⬜ |
+| Risk Assessment | ⬜ |
+| Control Mapping | ⬜ |
+| Audit and Compliance | ⬜ |
+
+```text
+✅ Completed
+🟨 In progress
+⬜ Planned
+```
 
 ---
 
-# 🧠 Technical Skills
+## Technical Skills
 
-## Infrastructure
+### Systems Administration
 
-- Windows Server Administration
-- Active Directory
+- Windows Server 2025
+- Windows 11 Enterprise
+- Server Manager
+- Windows Admin Center
+- Windows services
+- Event Viewer
+- Performance monitoring
+- Backup and recovery
+
+### Identity and Access Management
+
+- Active Directory Domain Services
+- Organizational Unit design
+- User and group administration
+- Role-based access concepts
+- Joiner, Mover, and Leaver workflows
+- Windows LAPS
+- Delegated administration
+- Account auditing
+
+### Core Infrastructure
+
 - DNS
 - DHCP
-- File Services
-- Print Services
-- Windows Admin Center
+- SMB file sharing
+- Share and NTFS permissions
+- Folder Redirection
+- Group Policy drive mapping
+- Print server administration
+- Group Policy deployment
 
-### Identity
-
-- Identity & Access Management
-- Organizational Units
-- Security Groups
-- Group Policy
-- Windows LAPS
-- User Lifecycle Management
-
-### Administration
+### Automation and Reporting
 
 - PowerShell
-- Event Viewer
-- Windows Services
-- Performance Monitoring
-- Backup & Recovery
-- System Administration
+- Active Directory PowerShell module
+- CSV-based automation
+- User onboarding scripts
+- Offboarding scripts
+- Permission reporting
+- Group Policy reporting
+- Event-log monitoring
 
 ### Troubleshooting
 
-- DNS
-- DHCP
-- Active Directory
-- Group Policy
-- NTFS Permissions
-- SMB
-- Windows Services
-- Authentication
-- Enterprise Incident Investigation
+- Name-resolution problems
+- IP configuration
+- DHCP authorization
+- Domain connectivity
+- Group Policy processing
+- File-access failures
+- Service failures
+- Event-log investigation
+- CPU and memory investigation
 
 ### Documentation
 
-- Technical Documentation
-- Architecture Diagrams
-- Troubleshooting Guides
-- Operational Procedures
-- Incident Documentation
+- Technical README files
+- Runbooks
+- Troubleshooting procedures
+- Validation checklists
+- Architecture documentation
+- Incident notes
+- Screenshots and evidence collection
 
 ---
 
-# 🔧 Technologies
+## Technologies
 
-<p>
+<p align="left">
 
-<img src="https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=windows&logoColor=white"/>
+<img src="https://img.shields.io/badge/Windows%20Server-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Server">
 
-<img src="https://img.shields.io/badge/Active_Directory-005A9C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Windows%2011-0078D4?style=for-the-badge&logo=windows11&logoColor=white" alt="Windows 11">
 
-<img src="https://img.shields.io/badge/Group_Policy-005A9C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Active%20Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Active Directory">
 
-<img src="https://img.shields.io/badge/DNS-0078D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Group%20Policy-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white" alt="Group Policy">
 
-<img src="https://img.shields.io/badge/DHCP-0078D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell">
 
-<img src="https://img.shields.io/badge/File_Services-0078D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Windows%20Admin%20Center-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Windows Admin Center">
 
-<img src="https://img.shields.io/badge/Print_Services-0078D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Microsoft%20Entra%20ID-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Entra ID">
 
-<img src="https://img.shields.io/badge/Windows_LAPS-0078D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Microsoft%20365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white" alt="Microsoft 365">
 
-<img src="https://img.shields.io/badge/Windows_Admin_Center-0078D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/VMware%20Workstation-607078?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware Workstation">
 
-<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 
-<img src="https://img.shields.io/badge/Event_Viewer-0078D4?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/VMware_Workstation-607078?style=for-the-badge&logo=vmware&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git- F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 
 </p>
 
 ---
 
-# 🚨 Enterprise Incident Response Experience
+## How I Document My Work
 
-Throughout this homelab I have investigated and resolved enterprise-style operational issues including:
-
-- DNS resolution failures
-- DHCP authorization failures
-- Active Directory administration
-- Domain Join troubleshooting
-- Group Policy processing failures
-- Folder Redirection deployment issues
-- NTFS vs Share permission conflicts
-- Windows LAPS deployment
-- Print service failures
-- Windows Service troubleshooting
-- Event Viewer investigations
-- Performance monitoring
-- Windows Admin Center deployment
-- Backup & Disaster Recovery validation
-
-Each issue is documented with its business scenario, investigation process, resolution steps, and validation procedures.
-
----
-
-# 📖 Documentation Philosophy
-
-Every module follows an enterprise operational workflow rather than a simple installation guide.
+I organize each project around the complete operational lifecycle:
 
 ```text
-Business Scenario
-
-↓
-
-Technology Overview
-
-↓
-
-Architecture
-
-↓
-
-Deployment
-
-↓
-
-Administration
-
-↓
-
-Troubleshooting
-
-↓
-
-PowerShell Automation
-
-↓
-
+Business Requirement
+        ↓
+Technology and Architecture
+        ↓
+Implementation
+        ↓
 Validation
-
-↓
-
+        ↓
+Troubleshooting
+        ↓
+Security Review
+        ↓
+Automation
+        ↓
 Lessons Learned
-
-↓
-
-Interview Questions
 ```
 
-The objective is to document not only how a technology is installed, but also how it is administered and troubleshot in enterprise environments.
+I include commands and screenshots, but I also document why a configuration exists, how I verified it, what could fail, and how I would troubleshoot it.
+
+The purpose of the repository is to show how I approach technical problems, not only which products I have installed.
 
 ---
 
-# 📚 Currently Learning
+## Current Focus
 
-- Enterprise Infrastructure Administration
-- PowerShell Automation
-- Windows Admin Center
+I am currently working on:
+
+- Windows Admin Center performance monitoring
+- Server health investigation
+- WSUS and patch-management planning
+- PowerShell script improvement
 - Microsoft Entra ID
-- Hybrid Identity
-- Microsoft 365 Administration
-- Security Monitoring
-- SIEM Operations
-- Threat Hunting
-- Incident Response
-- Governance, Risk & Compliance
+- Hybrid identity
+- Microsoft 365 administration
+- Windows security monitoring
+- Incident-response fundamentals
 
 ---
 
-# 🎓 Certifications
+## Certifications and Learning
 
-- ✅ Google IT Support Professional Certificate
-- 📖 ISC² Certified in Cybersecurity (CC) — In Progress
-- 📖 Microsoft Learn (Windows Server, Microsoft Entra ID & Microsoft 365)
-- 📖 TryHackMe (Windows, Active Directory & Blue Team Labs)
+- Google IT Support Professional Certificate
+- ISC2 Certified in Cybersecurity — In progress
+- Microsoft Learn — Windows Server, Entra ID, and Microsoft 365
+- TryHackMe — Windows, Active Directory, and Blue Team learning paths
 
 ---
 
-# 🎯 Career Objective
+## Career Direction
 
-Currently preparing for roles including:
+I am preparing for entry-level and junior roles such as:
 
 - IT Support Specialist
 - Help Desk Technician
 - Service Desk Analyst
 - Junior Systems Administrator
 - Infrastructure Support Engineer
-- Identity & Access Management Administrator
+- Identity and Access Management Analyst
 - Microsoft 365 Administrator
-- SOC Analyst (Tier 1)
+- Junior SOC Analyst
+
+I am particularly interested in roles that combine user support, infrastructure administration, identity management, troubleshooting, and automation.
 
 ---
 
-# 📫 Connect With Me
-
-<p>
+## Contact
 
 <a href="https://www.linkedin.com/in/derrickperez2002/">
-
-<img src="https://img.shields.io/badge/LinkedIn-Derrick%20Perez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-
+  <img src="https://img.shields.io/badge/LinkedIn-Derrick%20Perez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
 <a href="mailto:derickernestp@gmail.com">
-
-<img src="https://img.shields.io/badge/Gmail-derickernestp%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-
+  <img src="https://img.shields.io/badge/Email-derickernestp%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
-
-</p>
 
 ---
 
 <div align="center">
 
-# 🚀 Building a Production-Inspired Microsoft Enterprise Environment
+### Building practical experience through infrastructure deployment, troubleshooting, automation, and documentation.
 
-### Windows Server • Active Directory • Infrastructure Operations • Identity & Access Management • Microsoft Enterprise Technologies
+[View the IT Operations Homelab](https://github.com/derrickernestperez/IT-Operations-Homelab)
 
 </div>
