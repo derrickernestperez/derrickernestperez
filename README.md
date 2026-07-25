@@ -251,9 +251,9 @@ The goal is to collect evidence before making changes.
 | Module | Status |
 |---|:---:|
 | Security Monitoring with Honey Accounts | ✅ |
-| Windows Admin Center | 🟨 |
-| WSUS Patch Management | ⬜ |
-| Server Monitoring | ⬜ |
+| Windows Admin Center | ✅ |
+| WSUS Patch Management | ✅ |
+| Server Monitoring | ✅ |
 | Remote Administration | ⬜ |
 | Documentation and Knowledge Base | ⬜ |
 
