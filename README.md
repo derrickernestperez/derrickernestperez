@@ -463,7 +463,7 @@ Observe
 | Windows Admin Center | ✅ |
 | WSUS Patch Management | ✅ |
 | Server Monitoring | ✅ |
-| Remote Administration | ⬜ |
+| Remote Administration | ✅ |
 | Documentation and Knowledge Base | ✅ |
 
 ## 04 — Cloud Identity and Microsoft 365
