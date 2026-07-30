@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Derrick Ernest Perez 👋
+# Hi, I'm Derrick Ernest Perez 
 
 **BS Computer Science Graduate | IT Support | Systems Administration | Cloud Identity**
 
