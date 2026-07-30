@@ -10,7 +10,7 @@ I build hands-on homelab projects focused on Windows Server, Microsoft Entra ID,
 
 ---
 
-## Current Project
+## Current Projects
 
 🔧 [IT Operations Homelab](https://github.com/derrickernestperez/IT-Operations-Homelab)
 
