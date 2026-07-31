@@ -22,44 +22,17 @@
 
 ---
 
+<hr>
+
 <h3 align="center">Technologies and Tools</h3>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg"
-       height="45" alt="Windows">
-
-  &nbsp;&nbsp;&nbsp;
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg"
-       height="45" alt="Microsoft Azure">
-
-  &nbsp;&nbsp;&nbsp;
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg"
-       height="45" alt="PowerShell">
-
-  &nbsp;&nbsp;&nbsp;
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
-       height="45" alt="Git">
-
-  &nbsp;&nbsp;&nbsp;
-
-  <img src="https://api.iconify.design/simple-icons/github.svg?color=%238b949e"
-       height="45" alt="GitHub">
-
-  &nbsp;&nbsp;&nbsp;
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
-       height="45" alt="Linux">
-
-  &nbsp;&nbsp;&nbsp;
-
-  <img src="https://api.iconify.design/logos/microsoft.svg"
-       height="45" alt="Microsoft 365">
-
-  &nbsp;&nbsp;&nbsp;
-
-  <img src="https://api.iconify.design/logos/cisco.svg"
-       height="45" alt="Cisco Networking">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width="45" height="45" alt="Windows">&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="45" height="45" alt="Microsoft Azure">&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" width="45" height="45" alt="PowerShell">&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" height="45" alt="Git">&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="45" height="45" alt="GitHub">&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="45" height="45" alt="Linux">&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" width="45" height="45" alt="Azure DevOps">&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/networkx/networkx-original.svg" width="45" height="45" alt="Networking">
 </p>
