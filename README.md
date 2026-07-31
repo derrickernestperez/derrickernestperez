@@ -5,23 +5,18 @@
 <h2 align="center">IT Support • Systems Administration • Cloud Identity</h2>
 
 <p align="center">
-  BS Computer Science graduate building hands-on projects in Windows Server,
-  Active Directory, Microsoft Entra ID, PowerShell, Microsoft 365, and security monitoring.
-</p>
-
-<p align="center">
   <a href="mailto:derrickernestp@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" height="30" alt="Email">
+    <img src="https://api.iconify.design/logos/google-gmail.svg" height="32" alt="Email">
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://www.linkedin.com/in/derrickperez2002">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="30" alt="LinkedIn">
+    <img src="https://api.iconify.design/logos/linkedin-icon.svg" height="32" alt="LinkedIn">
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://github.com/derrickernestperez">
-    <img src="https://cdn.simpleicons.org/github/808080" height="30" alt="GitHub">
+    <img src="https://api.iconify.design/simple-icons/github.svg?color=%238b949e" height="32" alt="GitHub">
   </a>
 </p>
 
@@ -30,19 +25,41 @@
 <h3 align="center">Technologies and Tools</h3>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" height="45" alt="Windows">
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" height="45" alt="Microsoft Azure and Entra ID">
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" height="45" alt="PowerShell">
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="45" alt="Git">
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="45" alt="GitHub">
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="45" alt="Linux">
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/microsoftoffice" height="45" alt="Microsoft 365">
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/cisco" height="45" alt="Networking">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg"
+       height="45" alt="Windows">
+
+  &nbsp;&nbsp;&nbsp;
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg"
+       height="45" alt="Microsoft Azure">
+
+  &nbsp;&nbsp;&nbsp;
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg"
+       height="45" alt="PowerShell">
+
+  &nbsp;&nbsp;&nbsp;
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
+       height="45" alt="Git">
+
+  &nbsp;&nbsp;&nbsp;
+
+  <img src="https://api.iconify.design/simple-icons/github.svg?color=%238b949e"
+       height="45" alt="GitHub">
+
+  &nbsp;&nbsp;&nbsp;
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
+       height="45" alt="Linux">
+
+  &nbsp;&nbsp;&nbsp;
+
+  <img src="https://api.iconify.design/logos/microsoft.svg"
+       height="45" alt="Microsoft 365">
+
+  &nbsp;&nbsp;&nbsp;
+
+  <img src="https://api.iconify.design/logos/cisco.svg"
+       height="45" alt="Cisco Networking">
 </p>
