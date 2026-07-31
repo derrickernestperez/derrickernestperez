@@ -11,15 +11,17 @@
 
 <p align="center">
   <a href="mailto:derrickernestp@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail" height="28" alt="Email">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" height="30" alt="Email">
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
+
   <a href="https://www.linkedin.com/in/derrickperez2002">
-    <img src="https://cdn.simpleicons.org/linkedin" height="28" alt="LinkedIn">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="30" alt="LinkedIn">
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
+
   <a href="https://github.com/derrickernestperez">
-    <img src="https://cdn.simpleicons.org/github/white" height="28" alt="GitHub">
+    <img src="https://cdn.simpleicons.org/github/808080" height="30" alt="GitHub">
   </a>
 </p>
 
