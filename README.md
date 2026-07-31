@@ -44,30 +44,3 @@
   &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/cisco" height="45" alt="Networking">
 </p>
-
----
-
-<h3>Featured Project</h3>
-
-### [IT Operations Homelab](https://github.com/derrickernestperez/IT-Operations-Homelab)
-
-A practical IT portfolio covering Windows Server, Active Directory, Microsoft Entra ID, hybrid identity, PowerShell automation, security monitoring, and technical documentation.
-
----
-
-<h3>Currently Learning</h3>
-
-- Hybrid Identity
-- Microsoft 365 Administration
-- Microsoft Defender and Sentinel
-- Identity and Access Management
-
----
-
-<p align="center">
-  <a href="mailto:derrickernestp@gmail.com">Email</a>
-  &nbsp;•&nbsp;
-  <a href="https://www.linkedin.com/in/derrickperez2002">LinkedIn</a>
-  &nbsp;•&nbsp;
-  <a href="https://github.com/derrickernestperez/IT-Operations-Homelab">Homelab Portfolio</a>
-</p>
