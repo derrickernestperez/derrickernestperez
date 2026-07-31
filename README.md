@@ -36,3 +36,41 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" width="45" height="45" alt="Azure DevOps">&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/networkx/networkx-original.svg" width="45" height="45" alt="Networking">
 </p>
+
+<br>
+
+<h3 align="center">Most Used Languages</h3>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=derrickernestperez&layout=compact&theme=dark&hide_border=true&title_color=D4AF37&text_color=FFFFFF&bg_color=0D1117"
+    alt="Derrick Ernest Perez most used languages"
+    width="500"
+  >
+</p>
+
+<hr>
+
+<h3 align="center">Technologies and Tools</h3>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width="45" height="45" alt="Windows">&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="45" height="45" alt="Microsoft Azure">&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" width="45" height="45" alt="PowerShell">&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" height="45" alt="Git">&nbsp;&nbsp;&nbsp;
+  <img src="https://api.iconify.design/simple-icons/github.svg?color=%238b949e" width="45" height="45" alt="GitHub">&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="45" height="45" alt="Linux">&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" width="45" height="45" alt="Azure DevOps">
+</p>
+
+<br>
+
+<h3 align="center">Most Used Languages</h3>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=derrickernestperez&layout=compact&theme=dark&hide_border=true&title_color=D4AF37&text_color=FFFFFF&bg_color=0D1117"
+    alt="Derrick Ernest Perez most used languages"
+    width="500"
+  >
+</p>
