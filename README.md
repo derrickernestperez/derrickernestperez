@@ -20,17 +20,17 @@
   </a>
 </p>
 
+<hr>
 
-
----
-
-<h3 align="center">📊 Most Used Languages</h3>
+<h3 align="center">Technologies and Tools</h3>
 
 <p align="center">
-  <a href="https://github.com/derrickernestperez">
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=derrickernestperez&layout=compact&theme=transparent&hide_border=true&title_color=D4AF37&text_color=FFFFFF"
-      alt="Derrick Ernest Perez Most Used Languages"
-    />
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width="45" height="45" alt="Windows">&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="45" height="45" alt="Microsoft Azure">&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" width="45" height="45" alt="PowerShell">&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" height="45" alt="Git">&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="45" height="45" alt="GitHub">&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="45" height="45" alt="Linux">&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" width="45" height="45" alt="Azure DevOps">&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/networkx/networkx-original.svg" width="45" height="45" alt="Networking">
 </p>
