@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="tech_career_branding_banner.png" alt="Derrick Ernest Perez Banner" width="100%">
+  <img src="tech_career_branding_banner.jpg" alt="Derrick Ernest Perez Banner" width="100%">
 </p>
 
 <h2 align="center">IT Support • Systems Administration • Cloud Identity</h2>
